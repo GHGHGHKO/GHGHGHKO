@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-bitwarden 백엔드 클론코딩
+bitwarden 백엔드 클론코딩 (Swagger)
 
 + https://github.com/GHGHGHKO/goose-auth-api-server
 + https://goose-auth.synology.me/swagger-ui/index.html 
