@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### bitwarden 백엔드 클론코딩
+https://github.com/GHGHGHKO/goose-auth-api-server
+https://goose-auth.synology.me/swagger-ui/index.html 
+
+### Docker Hub
+https://hub.docker.com/u/gudrb963
+
