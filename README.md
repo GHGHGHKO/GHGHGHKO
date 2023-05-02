@@ -25,3 +25,7 @@ bitwarden 백엔드 클론코딩 (Swagger)
 slate 문서  
 
 + https://ghghghko.github.io/slate/#introduction
+
+
+Get Tenor memes with Tauri Desktop
++ https://github.com/GHGHGHKO/tauri-get-memes/releases
