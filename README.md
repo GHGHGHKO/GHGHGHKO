@@ -27,5 +27,5 @@ slate 문서
 + https://ghghghko.github.io/slate/#introduction
 
 
-Get Tenor memes with Tauri Desktop
-+ https://github.com/GHGHGHKO/tauri-get-memes/releases
+Get Tenor memes with Tauri Desktop (Dalgona)
++ https://github.com/GHGHGHKO/Dalgona/tags
