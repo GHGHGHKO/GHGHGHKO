@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 bitwarden 백엔드 클론코딩 (Swagger)
 
 + https://github.com/GHGHGHKO/goose-auth-api-server
-+ https://goose-auth.synology.me/swagger-ui/index.html 
-
++ https://goose-auth.synology.me/swagger-ui/index.html
++ _Vault key를 잃어버렸어요 🤦‍♂️_
 
 slate 문서  
 
