@@ -26,5 +26,6 @@ slate 문서
 + https://ghghghko.github.io/slate/#introduction
 
 
-Get Tenor memes with Tauri Desktop (dalgona)
+GIF meme finder app for Windows and macOS. (dalgona)
 + https://github.com/GHGHGHKO/dalgona/tags
++ https://github.com/tauri-apps/awesome-tauri#productivity
