@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
+GIF meme finder app for Windows and macOS. (dalgona)
++ https://github.com/GHGHGHKO/dalgona/tags
++ https://github.com/tauri-apps/awesome-tauri#productivity
+
+
 bitwarden 백엔드 클론코딩 (Swagger)
 
 + https://github.com/GHGHGHKO/goose-auth-api-server
@@ -26,6 +31,3 @@ slate 문서
 + https://ghghghko.github.io/slate/#introduction
 
 
-GIF meme finder app for Windows and macOS. (dalgona)
-+ https://github.com/GHGHGHKO/dalgona/tags
-+ https://github.com/tauri-apps/awesome-tauri#productivity
