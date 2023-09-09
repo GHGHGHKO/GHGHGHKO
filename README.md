@@ -26,7 +26,7 @@ GIF meme finder app for Windows and macOS. (dalgona)
 + https://github.com/GHGHGHKO/goose-auth-api-server
 + https://goose-auth.synology.me/swagger-ui/index.html
 
-goose-auth slate API docs  
+[_goose-auth_](https://github.com/GHGHGHKO/goose-auth-api-server) slate API docs  
 
 + https://ghghghko.github.io/slate/#introduction
 
