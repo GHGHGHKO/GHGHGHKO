@@ -21,12 +21,12 @@ GIF meme finder app for Windows and macOS. (dalgona)
 + https://github.com/tauri-apps/awesome-tauri#productivity
 
 
-bitwarden 백엔드 클론코딩 (Swagger)
+[_bitwarden_](https://bitwarden.com/) Backend clone practice (Swagger)
 
 + https://github.com/GHGHGHKO/goose-auth-api-server
 + https://goose-auth.synology.me/swagger-ui/index.html
 
-slate 문서  
+goose-auth slate API docs  
 
 + https://ghghghko.github.io/slate/#introduction
 
