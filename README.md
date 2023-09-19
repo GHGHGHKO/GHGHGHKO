@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 
 GIF meme finder app for Windows and macOS. (dalgona)
 + https://github.com/GHGHGHKO/dalgona/tags
-+ https://github.com/tauri-apps/awesome-tauri#productivity
++ [![Mentioned in Awesome Tauri][]][1]
+
+[1]: https://github.com/tauri-apps/awesome-tauri#productivity
+[Mentioned in Awesome Tauri]: https://awesome.re/mentioned-badge.svg
 
 
 [_bitwarden_](https://bitwarden.com/) Backend clone practice (Swagger)
