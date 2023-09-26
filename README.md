@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 
 GIF meme finder app for Windows and macOS. (dalgona)
-+ https://github.com/GHGHGHKO/dalgona/tags
++ repository: https://github.com/GHGHGHKO/dalgona
++ download: https://github.com/GHGHGHKO/dalgona/releases/latest
 + [![Mentioned in Awesome Tauri][]][1]
 
 [1]: https://github.com/tauri-apps/awesome-tauri#productivity
