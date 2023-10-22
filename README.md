@@ -21,7 +21,7 @@ GIF meme finder app for Windows and macOS. (dalgona)
 + download: https://github.com/GHGHGHKO/dalgona/releases/latest
 + [![Mentioned in Awesome Tauri][]][1]
 
-[1]: https://github.com/tauri-apps/awesome-tauri#productivity
+[1]: https://github.com/tauri-apps/awesome-tauri#productivity:~:text=Dalgona%20%2D%20GIF%20meme%20finder%20app%20for%20Windows%20and%20macOS.
 [Mentioned in Awesome Tauri]: https://awesome.re/mentioned-badge.svg
 
 
