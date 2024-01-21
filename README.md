@@ -28,7 +28,7 @@ GIF meme finder app for Windows and macOS. (dalgona)
 [_bitwarden_](https://bitwarden.com/) Backend clone practice (Swagger)
 
 + https://github.com/GHGHGHKO/goose-auth-api-server
-+ https://goose-auth.synology.me/swagger-ui/index.html
++ https://goose-auth.i234.me:446/swagger-ui/index.html
 
 [_goose-auth_](https://github.com/GHGHGHKO/goose-auth-api-server) slate API docs  
 
