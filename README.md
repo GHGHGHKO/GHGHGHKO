@@ -24,11 +24,14 @@ GIF meme finder app for Windows and macOS. (dalgona)
 [1]: https://github.com/tauri-apps/awesome-tauri#productivity:~:text=Dalgona%20%2D%20GIF%20meme%20finder%20app%20for%20Windows%20and%20macOS.
 [Mentioned in Awesome Tauri]: https://awesome.re/mentioned-badge.svg
 
+[ _klassic-quote-api_ ](https://github.com/GHGHGHKO/klassic-quote-api) Korean movie quotes API
+
++ https://github.com/GHGHGHKO/klassic-quote-api
 
 [_bitwarden_](https://bitwarden.com/) Backend clone practice (Swagger)
 
 + https://github.com/GHGHGHKO/goose-auth-api-server
-+ https://goose-auth.i234.me:446/swagger-ui/index.html
++ https://goose-auth-api.mooo.com/swagger-ui/index.html
 
 [_goose-auth_](https://github.com/GHGHGHKO/goose-auth-api-server) slate API docs  
 
