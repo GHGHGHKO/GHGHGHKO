@@ -27,6 +27,7 @@ GIF meme finder app for Windows and macOS. (dalgona)
 [ _klassic-quote-api_ ](https://github.com/GHGHGHKO/klassic-quote-api) Korean movie quotes API
 
 + https://github.com/GHGHGHKO/klassic-quote-api
++ https://klassic-quote-api.mooo.com/v1/random-quote
 
 [_bitwarden_](https://bitwarden.com/) Backend clone practice (Swagger)
 
