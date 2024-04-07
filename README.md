@@ -24,10 +24,13 @@ GIF meme finder app for Windows and macOS. (dalgona)
 [1]: https://github.com/tauri-apps/awesome-tauri#productivity:~:text=Dalgona%20%2D%20GIF%20meme%20finder%20app%20for%20Windows%20and%20macOS.
 [Mentioned in Awesome Tauri]: https://awesome.re/mentioned-badge.svg
 
-[ _klassic-quote-api_ ](https://github.com/GHGHGHKO/klassic-quote-api), [ _klassic-quote_ ](https://github.com/GHGHGHKO/klassic-quote) Korean movie quotes API, Web
+[ _klassic-quote-api_ ](https://github.com/GHGHGHKO/klassic-quote-api) Korean movie quotes API
 
 + https://github.com/GHGHGHKO/klassic-quote-api
 + https://klassic-quote-api.mooo.com/v1/random-quote
+
+[ _klassic-quote_ ](https://github.com/GHGHGHKO/klassic-quote) Korean movie quotes Web
+
 + https://github.com/GHGHGHKO/klassic-quote
 + https://klassic-quote.vercel.app/
 
