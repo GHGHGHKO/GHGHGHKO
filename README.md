@@ -45,5 +45,5 @@ GIF meme finder app for Windows and macOS. (dalgona)
 
 Status page
 
-+ ghghghko.github.io/upptime/
++ https://ghghghko.github.io/upptime/
 
