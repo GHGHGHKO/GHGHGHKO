@@ -34,6 +34,11 @@ GIF meme finder app for Windows and macOS. (dalgona)
 + https://github.com/GHGHGHKO/klassic-quote
 + https://klassic-quote.vercel.app/
 
+[ _Roadmap backend projects_ ](https://roadmap.sh/backend/projects)
+
++ https://github.com/GHGHGHKO/roadmap-weather
++ https://github.com/GHGHGHKO/roadmap-todo
+
 [_bitwarden_](https://bitwarden.com/) Backend clone practice (Swagger)
 
 + https://github.com/GHGHGHKO/goose-auth-api-server
