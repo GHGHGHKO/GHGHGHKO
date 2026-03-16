@@ -73,4 +73,5 @@ privacy-compliant APIs
 ## 📫 Links
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-feelsgoodfrog-black?style=flat&logo=astro)](https://feelsgoodfrog-links.vercel.app/)  
-[![Instagram](https://img.shields.io/badge/Instagram-hg____ko-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/hg____ko/)
+[![Instagram](https://img.shields.io/badge/Instagram-hg____ko-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/hg____ko/)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-Problem_Solving_(Gold)-FFD700?style=flat&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/gudrb963)
