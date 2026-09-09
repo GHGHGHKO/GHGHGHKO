@@ -16,8 +16,8 @@ GS Retail에서 수백만 고객을 대상으로 한 물류·CRM 시스템을 �
 > 러너(RUNNER)와 관전자(WATCHER)가 같은 그룹 코드로 연결되어, 지도 위에서 실시간으로 위치·페이스·동선을 공유하고 응원하는 크로스플랫폼 모바일/웹 서비스
 
 [![Landing Page](https://img.shields.io/badge/Landing_Page-about.runmarket.cc-ff9900?style=flat&logo=firefoxbrowser&logoColor=white)](http://about.runmarket.cc/)
-[![App Store](https://img.shields.io/badge/App_Store-cc.runmarket.app-007AFF?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/kr/app/%EB%9F%B0%EB%A7%88%EC%BC%93/id6779493827)
-[![Google Play](https://img.shields.io/badge/Google_Play-준비중_Coming_Soon-34A853?style=flat&logo=googleplay&logoColor=white)](http://about.runmarket.cc/)
+[![App Store](https://img.shields.io/badge/App_Store-app-007AFF?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/kr/app/%EB%9F%B0%EB%A7%88%EC%BC%93/id6779493827)
+[![Google Play](https://img.shields.io/badge/Google_Play-app-34A853?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=cc.runmarket.app)
 [![Web App](https://img.shields.io/badge/Web_App-runmarket.cc-232f3e?style=flat&logo=react&logoColor=white)](https://www.runmarket.cc)
 
 - **EN**: Built a high-performance real-time location streaming backend with **Spring WebFlux + Reactive Redis WebSocket Broker**, integrated **iOS Live Activity (Dynamic Island)** & **Apple HealthKit**, and declared IaC infrastructure using **K3s Kubernetes Helm Charts**. (Achieved 0% error rate on k6 load test simulating 1,000 concurrent runners).
