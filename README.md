@@ -20,8 +20,8 @@ GS Retail에서 수백만 고객을 대상으로 한 물류·CRM 시스템을 �
 [![Google Play](https://img.shields.io/badge/Google_Play-app-34A853?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=cc.runmarket.app)
 [![Web App](https://img.shields.io/badge/Web_App-runmarket.cc-232f3e?style=flat&logo=react&logoColor=white)](https://www.runmarket.cc)
 
-- **EN**: Built a high-performance real-time location streaming backend with **Spring WebFlux + Reactive Redis WebSocket Broker**, integrated **iOS Live Activity (Dynamic Island)** & **Apple HealthKit**, and declared IaC infrastructure using **K3s Kubernetes Helm Charts**. (Achieved 0% error rate on k6 load test simulating 1,000 concurrent runners).
-- **KR**: **Spring WebFlux + Reactive Redis WebSocket** 기반 고성능 위치 중계 서버 구축, **iOS Live Activity (Dynamic Island)** 및 **Apple HealthKit** 연동, **K3s Kubernetes Helm Chart**를 활용한 선언적 IaC 인프라 구성 (k6 1,000명 동시 접속 1초 주기 실시간 시뮬레이션 부하테스트 에러율 0% 달성).
+- **EN**: Built a real-time location streaming backend with **Spring WebFlux + Reactive Redis WebSocket Broker**, integrated **iOS Live Activity (Dynamic Island)** & **Apple HealthKit**, and declared IaC infrastructure using **K3s Kubernetes Helm Charts**. A preliminary k6 experiment covered only the runner location-publish path, ramping from 100 to 1,000 simulated runners over 90 seconds and holding for 2 minutes. The client UI crashed at high runner counts, and spectator subscriptions/fan-out were not validated; this is not an end-to-end capacity claim.
+- **KR**: **Spring WebFlux + Reactive Redis WebSocket** 기반 실시간 위치 중계 백엔드를 구축하고, **iOS Live Activity(Dynamic Island)** 및 **Apple HealthKit**을 연동했으며, **K3s Kubernetes Helm Chart** 기반 IaC 인프라를 구성했습니다. 예비 k6 실험은 러너 위치 송신 경로만 대상으로 10초마다 100명씩 늘려 90초 동안 1,000명까지 올린 뒤 2분간 유지했습니다. 러너 수가 많아지자 클라이언트 UI가 크래시했고, 관전자 구독·브로드캐스트는 검증하지 않아 전체 서비스의 동시 접속 한계를 의미하지 않습니다.
 
 ---
 
